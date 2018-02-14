@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99EcommerceSuite">
+  <test name="FunctionalTest">
+    <classes>
+      <class name="com.guru99.ecommerce.main.EcomSortingTC001"/>
+      <class name="com.guru99.ecommerce.main.EcomCompareTC002"/>
+      <class name="com.guru99.ecommerce.main.EcomCartErrorTC003"/>
+      <class name="com.guru99.ecommerce.main.EcomPopUpTC004"/>
+      
+    </classes>
+  </test> <!-- FunctionalTest -->
+</suite> <!-- Guru99EcommerceSuite -->
